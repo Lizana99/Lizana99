@@ -7,3 +7,9 @@ Soy de Chiclayo,ingeniera civil
 ## Contáctame
 
 Feliz de contactarme contigo
+
+## Technologies
+
+- HTML
+- CSS
+- JS
